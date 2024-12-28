@@ -1,4 +1,4 @@
-# BuildingLandingPage-task-
+# BuildingLandingPage-task
 
 https://chetan408.github.io/LuxBuildingWeb/ (click)
 
